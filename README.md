@@ -34,6 +34,17 @@ $ g++ hi.cpp -o hi && ./hi <your_name>
 $ dart hi.dart <your_name>
 ```
 
+## Go
+
+  - wiki: A statically typed, compiled programming language. Syntactically similar to C, but with the added benefits of memory safety, garbage collection, structural typing, and CSP-style concurrency.
+  - first appeared: 2009
+  - tiobe index as of march 2019: 18
+  - check it out: https://golang.org
+
+```sh
+$ go build hi.go && ./hi <your_name>
+```
+
 ## Java
 
   - wiki: A general-purpose computer-programming language that is concurrent, class-based, object-oriented.
