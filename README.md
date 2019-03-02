@@ -33,6 +33,16 @@ $ g++ hi.cpp -o hi && ./hi <your_name>
 $ javac Hi.java && java Hi <your_name>
 ```
 
+## JavaScript
+
+  - wiki: A high-level, interpreted programming language characterized as dynamic, weakly typed, prototype-based and multi-paradigm.
+  - first appeared: 1995
+  - tiobe index as of march 2019: 7
+
+```sh
+$ node hi.js <your_name>
+```
+
 ## Python
 
   - wiki: An interpreted, high-level, general-purpose programming language.
