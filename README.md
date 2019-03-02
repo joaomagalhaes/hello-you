@@ -2,6 +2,16 @@
 
 Desc.
 
+## C
+
+  - wiki: A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+  - first appeared: 1972
+  - tiobe index as of march 2019: 2
+
+```sh
+$ gcc -o hi hi.c && ./hi <your_name>
+```
+
 ## Java
 
   - wiki: A general-purpose computer-programming language that is concurrent, class-based, object-oriented.
