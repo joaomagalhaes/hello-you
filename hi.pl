@@ -1,0 +1,1 @@
+print "Hi $ARGV[0]!\n";
