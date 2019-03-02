@@ -1,6 +1,6 @@
 # Hello 'You'
 
-Desc.
+todo: add description
 
 ## C
 
@@ -41,6 +41,17 @@ $ javac Hi.java && java Hi <your_name>
 
 ```sh
 $ node hi.js <your_name>
+```
+
+## Perl
+
+  - wiki: A family of two high-level, general-purpose, interpreted, dynamic programming languages, Perl 5 and Perl 6.
+  - first appeared: 1987
+  - tiobe index as of march 2019: 13
+  - check it out: https://www.perl.org
+
+```sh
+$  perl hi.pl <your_name>
 ```
 
 ## Python
