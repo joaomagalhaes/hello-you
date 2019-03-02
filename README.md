@@ -11,3 +11,13 @@ Desc.
 ```sh
 $ javac Hi.java && java Hi <your_name>
 ```
+
+## Python
+
+  - wiki: An interpreted, high-level, general-purpose programming language.
+  - first appeared: 1990
+  - tiobe index as of march 2019: 3
+
+```sh
+$  python hi.py <your_name>
+```
