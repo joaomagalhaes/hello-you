@@ -23,6 +23,17 @@ $ gcc -o hi hi.c && ./hi <your_name>
 $ g++ hi.cpp -o hi && ./hi <your_name>
 ```
 
+## Dart
+
+  - wiki: An object-oriented, class defined, garbage-collected language using a C-style syntax. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system.
+  - first appeared: 2011
+  - tiobe index as of march 2019: 23
+  - check it out: https://www.dartlang.org
+
+```sh
+$ dart hi.dart <your_name>
+```
+
 ## Java
 
   - wiki: A general-purpose computer-programming language that is concurrent, class-based, object-oriented.
