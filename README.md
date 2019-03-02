@@ -64,3 +64,14 @@ $  perl hi.pl <your_name>
 ```sh
 $  python hi.py <your_name>
 ```
+
+## Ruby
+
+  - wiki: A dynamic, interpreted, reflective, object-oriented, general-purpose programming language.
+  - first appeared: 1995
+  - tiobe index as of march 2019: 15
+  - check it out: https://www.ruby-lang.org/en/
+
+```sh
+$  ruby hi.rb <your_name>
+```
