@@ -43,6 +43,17 @@ $ javac Hi.java && java Hi <your_name>
 $ node hi.js <your_name>
 ```
 
+## Kotlin
+
+  - wiki: A cross-platform, statically typed, general-purpose programming language with type inference.
+  - first appeared: 2011
+  - tiobe index as of march 2019: 39
+  - check it out: https://kotlinlang.org
+
+```sh
+$ kotlinc hi.kt -include-runtime -d hi.jar && java -jar hi.jar <your_name>
+```
+
 ## Perl
 
   - wiki: A family of two high-level, general-purpose, interpreted, dynamic programming languages, Perl 5 and Perl 6.
