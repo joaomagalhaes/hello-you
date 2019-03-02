@@ -12,6 +12,17 @@ Desc.
 $ gcc -o hi hi.c && ./hi <your_name>
 ```
 
+## C++
+
+  - wiki: A general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+  - first appeared: 1985
+  - tiobe index as of march 2019: 4
+  - check it out: https://isocpp.org
+
+```sh
+$ g++ hi.cpp -o hi && ./hi <your_name>
+```
+
 ## Java
 
   - wiki: A general-purpose computer-programming language that is concurrent, class-based, object-oriented.
@@ -27,6 +38,7 @@ $ javac Hi.java && java Hi <your_name>
   - wiki: An interpreted, high-level, general-purpose programming language.
   - first appeared: 1990
   - tiobe index as of march 2019: 3
+  - check it out: https://www.python.org
 
 ```sh
 $  python hi.py <your_name>
