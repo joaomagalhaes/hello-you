@@ -76,6 +76,17 @@ $ node hi.js <your_name>
 $ kotlinc hi.kt -include-runtime -d hi.jar && java -jar hi.jar <your_name>
 ```
 
+## Lua
+
+  - wiki: A lightweight, multi-paradigm programming language designed primarily for embedded use in applications.
+  - first appeared: 1993
+  - tiobe index as of march 2019: 29
+  - check it out: https://www.lua.org
+
+```sh
+$ lua hi.lua <your_name>
+```
+
 ## Perl
 
   - wiki: A family of two high-level, general-purpose, interpreted, dynamic programming languages, Perl 5 and Perl 6.
