@@ -65,6 +65,16 @@ $ javac Hi.java && java Hi <your_name>
 $ node hi.js <your_name>
 ```
 
+## Julia
+
+  - wiki: A high-level general-purpose dynamic programming language whose designers intend it to address the needs of high-performance numerical analysis and computational science, without the need of separate compilation to be fast.
+  - first appeared: 2012
+  - tiobe index as of march 2019: 42
+
+```sh
+$ julia hi.jl <your_name>
+```
+
 ## Kotlin
 
   - wiki: A cross-platform, statically typed, general-purpose programming language with type inference.
@@ -77,7 +87,6 @@ $ kotlinc hi.kt -include-runtime -d hi.jar && java -jar hi.jar <your_name>
 ```
 
 ## Lua
-
 
   - wiki: A lightweight, multi-paradigm programming language designed primarily for embedded use in applications.
   - first appeared: 1993
