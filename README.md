@@ -47,7 +47,7 @@ $ g++ hi.cpp -o hi && ./hi <your_name>
 
 ## D
 
-  - [wiki](https://en.wikipedia.org/wiki/D_(programming_language): An object-oriented, imperative, multi-paradigm system programming language.
+  - [wiki](https://en.wikipedia.org/wiki/D_(programming_language)): An object-oriented, imperative, multi-paradigm system programming language.
   - first appeared: 2001
   - tiobe index as of march 2019: 24
   - https://dlang.org
