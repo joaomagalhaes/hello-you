@@ -2,6 +2,17 @@
 
 todo: add description
 
+## Bash
+
+  - wiki: A Unix shell and command language.
+  - first appeared: 1989
+  - tiobe index as of march 2019: 41
+  - check it out: https://www.gnu.org/software/bash/
+
+```sh
+$ sh hi.sh <your_name>
+```
+
 ## C
 
   - wiki: A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
