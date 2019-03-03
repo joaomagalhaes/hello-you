@@ -2,5 +2,5 @@ import std.stdio;
 
 void main(string[] args)
 {
-  writeln("Hi ", args[1], "!");
+    writeln("Hi ", args[1], "!");
 }
