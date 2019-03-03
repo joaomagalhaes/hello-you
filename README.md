@@ -2,6 +2,17 @@
 
 todo: add description
 
+## Awk
+
+  - [wiki](https://en.wikipedia.org/wiki/AWK) A special-purpose programming language designed for text processing and typically used as a data extraction and reporting tool.
+  - first appeared: 1977
+  - tiobe: 46
+  - https://github.com/onetrueawk/awk
+
+```sh
+$ awk -f hi.awk <your_name>
+```
+
 ## Bash
 
   - wiki: A Unix shell and command language.
