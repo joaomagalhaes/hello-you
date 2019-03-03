@@ -70,6 +70,7 @@ $ node hi.js <your_name>
   - wiki: A high-level general-purpose dynamic programming language whose designers intend it to address the needs of high-performance numerical analysis and computational science, without the need of separate compilation to be fast.
   - first appeared: 2012
   - tiobe index as of march 2019: 42
+  - check it out: https://julialang.org
 
 ```sh
 $ julia hi.jl <your_name>
