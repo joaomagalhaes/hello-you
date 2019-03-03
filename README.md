@@ -130,3 +130,14 @@ $  python hi.py <your_name>
 ```sh
 $  ruby hi.rb <your_name>
 ```
+
+## Rust
+
+  - wiki: A multi-paradigm systems programming language focused on safety, especially safe concurrency. Rust is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
+  - first appeared: 2010
+  - tiobe index as of march 2019: 35
+  - check it out: https://www.rust-lang.org
+
+```sh
+$  rustc hi.rs && ./hi <your_name>
+```
