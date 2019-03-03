@@ -4,7 +4,7 @@ todo: add description
 
 ## Awk
 
-  - [wiki](https://en.wikipedia.org/wiki/AWK) A special-purpose programming language designed for text processing and typically used as a data extraction and reporting tool.
+  - [wiki](https://en.wikipedia.org/wiki/AWK): A special-purpose programming language designed for text processing and typically used as a data extraction and reporting tool.
   - first appeared: 1977
   - tiobe: 46
   - https://github.com/onetrueawk/awk
@@ -43,6 +43,17 @@ $ gcc -o hi hi.c && ./hi <your_name>
 
 ```sh
 $ g++ hi.cpp -o hi && ./hi <your_name>
+```
+
+## D
+
+  - wiki: [wiki](https://en.wikipedia.org/wiki/D_(programming_language): An object-oriented, imperative, multi-paradigm system programming language.
+  - first appeared: 2001
+  - tiobe index as of march 2019: 24
+  - https://dlang.org
+
+```sh
+$ dmd hi.d && ./hi <your_name>
 ```
 
 ## Dart
