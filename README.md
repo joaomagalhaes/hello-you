@@ -139,7 +139,7 @@ $ lua hi.lua <your_name>
   - check it out: https://www.perl.org
 
 ```sh
-$  perl hi.pl <your_name>
+$ perl hi.pl <your_name>
 ```
 
 ## Python
@@ -150,7 +150,18 @@ $  perl hi.pl <your_name>
   - check it out: https://www.python.org
 
 ```sh
-$  python hi.py <your_name>
+$ python hi.py <your_name>
+```
+
+## Ring
+
+  - [wiki](https://en.wikipedia.org/wiki/Ring_(programming_language)): A dynamically typed, general-purpose programming language. The supported programming paradigms are imperative, procedural, object-oriented, functional, meta, declarative using nested structures, and natural programming.
+  - first appeared: 2016
+  - tiobe: 50+
+  - http://ring-lang.sourceforge.net
+
+```sh
+$ ring hi.ring <your_name>
 ```
 
 ## Ruby
@@ -161,7 +172,7 @@ $  python hi.py <your_name>
   - check it out: https://www.ruby-lang.org/en/
 
 ```sh
-$  ruby hi.rb <your_name>
+$ ruby hi.rb <your_name>
 ```
 
 ## Rust
@@ -172,5 +183,5 @@ $  ruby hi.rb <your_name>
   - check it out: https://www.rust-lang.org
 
 ```sh
-$  rustc hi.rs && ./hi <your_name>
+$ rustc hi.rs && ./hi <your_name>
 ```
