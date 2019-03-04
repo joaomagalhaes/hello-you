@@ -168,8 +168,8 @@ $ ring hi.ring <your_name>
 
   - wiki: A dynamic, interpreted, reflective, object-oriented, general-purpose programming language.
   - first appeared: 1995
-  - tiobe index as of march 2019: 15
-  - check it out: https://www.ruby-lang.org/en/
+  - tiobe index: 15
+  - https://www.ruby-lang.org/en/
 
 ```sh
 $ ruby hi.rb <your_name>
@@ -179,9 +179,20 @@ $ ruby hi.rb <your_name>
 
   - wiki: A multi-paradigm systems programming language focused on safety, especially safe concurrency. Rust is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
   - first appeared: 2010
-  - tiobe index as of march 2019: 35
-  - check it out: https://www.rust-lang.org
+  - tiobe index: 35
+  - https://www.rust-lang.org
 
 ```sh
 $ rustc hi.rs && ./hi <your_name>
+```
+
+## Swift
+
+  - [wiki](https://en.wikipedia.org/wiki/Swift_(programming_language)): A general-purpose, multi-paradigm, compiled programming language.
+  - first appeared: 2014
+  - tiobe index: 17
+  - https://swift.org
+
+```sh
+$ swift hi.swift <your_name>
 ```
