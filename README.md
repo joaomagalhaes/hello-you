@@ -186,6 +186,17 @@ $ ruby hi.rb <your_name>
 $ rustc hi.rs && ./hi <your_name>
 ```
 
+## Scala
+
+  - [wiki](https://en.wikipedia.org/wiki/Scala_(programming_language)): A general-purpose programming language providing support for functional programming and a strong static type system.
+  - first appeared: 2004
+  - tiobe index: 28
+  - https://www.scala-lang.org
+
+```sh
+$ scalac hi.scala && scala Hi <your_name>
+```
+
 ## Swift
 
   - [wiki](https://en.wikipedia.org/wiki/Swift_(programming_language)): A general-purpose, multi-paradigm, compiled programming language.
