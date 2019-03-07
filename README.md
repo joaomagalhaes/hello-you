@@ -153,6 +153,17 @@ $ perl hi.pl <your_name>
 $ python hi.py <your_name>
 ```
 
+## R
+
+  - [wiki](https://en.wikipedia.org/wiki/R_(programming_language)): Designer for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
+  - first appeared: 1993
+  - tiobe: 14
+  - https://www.r-project.org
+
+```sh
+$ Rscript hi.r <your_name>
+```
+
 ## Ring
 
   - [wiki](https://en.wikipedia.org/wiki/Ring_(programming_language)): A dynamically typed, general-purpose programming language. The supported programming paradigms are imperative, procedural, object-oriented, functional, meta, declarative using nested structures, and natural programming.
